@@ -1,6 +1,12 @@
 {
  "simulation": [
-   {
+  {
+   "name": "./systems/simulation/spawn-bg",
+   "scenes": [
+     "main"
+   ]
+  },
+  {
    "name": "splat-ecs/lib/systems/simulation/decay-life-span",
    "scenes": "all"
   },
