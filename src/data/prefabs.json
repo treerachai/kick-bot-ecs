@@ -5,6 +5,10 @@
       "x": 0,
       "y": 0
     },
+    "velocity": {
+      "x": 0,
+      "y": -0.4
+    },
     "image": {
       "name": "bg.png"
     }
